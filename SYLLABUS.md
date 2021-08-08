@@ -2,7 +2,11 @@
 
 ## Fundamentals: 
 
--   Introduction to golang, compared between other languages
+-   Introduction to GoLang 
+    - How it works
+    - Advantages & Disadvantages, compared between other languages
+    - Setup Installation
+    
 -   Variables, data types, arrays, slices
 -   Structs, pointers, reference & value types
 -   Functions and return types, receiver functions
