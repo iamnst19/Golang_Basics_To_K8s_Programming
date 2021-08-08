@@ -1,6 +1,6 @@
-#Complete Golang + Kubernetes Programming
+# Complete Golang + Kubernetes Programming
 
-##Fundamentals: 
+## Fundamentals: 
 
 -   Introduction to golang, compared between other languages
 -   Variables, data types, arrays, slices
@@ -15,13 +15,13 @@
 -   JSON vs PROTOBUF
 -   DEBUGGING CODE in Golang
 
-##Advanced:
+## Advanced:
 -   Creating Server and explanation 
 -   Performing REST 
 -   Client server communication trace and debug 
 -   Communicating Via GRPC and Data using Protobuf 
 
-##Programming in Kubernetes:
+## Programming in Kubernetes:
 
 -   Creating Microservices and establishing connections 
 -   Writing  CRD’s/ Communicating with CRD’s 
@@ -29,6 +29,6 @@
        
 
 
-##Exploring Open Source projects in GOLANG:
+## Exploring Open Source projects in GOLANG:
 -     
 
