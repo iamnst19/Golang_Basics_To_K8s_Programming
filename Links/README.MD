@@ -1,0 +1,1 @@
+#https://medium.com/@mohllal/kubernetes-sidecar-container-injection-61ecfcc7b22b

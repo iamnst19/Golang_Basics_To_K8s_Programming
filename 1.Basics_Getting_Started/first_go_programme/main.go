@@ -1,6 +1,6 @@
 //every go code must start with a package declaration; write a package keyword and the name of the package
 // if you are build reusable package of code you would build package as a shared library
-// use package main to make it an executagle programme
+// use package main to make it an executable programme
 package main
 
 // use import to use code from other code
